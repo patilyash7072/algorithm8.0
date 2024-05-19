@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693358537774",
+    "project_id": "suraksha-sathi-fe713",
+    "storage_bucket": "suraksha-sathi-fe713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693358537774:android:b1a4a7efe309cc9c0083bf",
+        "android_client_info": {
+          "package_name": "com.example.suraksha_sathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rm6HzfciVDB84zcDUvn8OWBmGpe6QLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+   // Use IntelliSense to learn about possible attributes.
+   // Hover to view descriptions of existing attributes.
+   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+   "version": "0.2.0",
+   "configurations": [
+      {
+         "name": "Gossip-Chat-App",
+         "cwd": "Gossip-Chat-App",
+         "request": "launch",
+         "type": "dart"
+      },
+      {
+         "name": "Gossip-Chat-App (profile mode)",
+         "cwd": "Gossip-Chat-App",
+         "request": "launch",
+         "type": "dart",
+         "flutterMode": "profile"
+      },
+      {
+         "name": "Gossip-Chat-App (release mode)",
+         "cwd": "Gossip-Chat-App",
+         "request": "launch",
+         "type": "dart",
+         "flutterMode": "release"
+      },
+      {
+         "name": "suraksha_sathi",
+         "cwd": "suraksha_sathi",
+         "request": "launch",
+         "type": "dart"
+      },
+      {
+         "name": "suraksha_sathi (profile mode)",
+         "cwd": "suraksha_sathi",
+         "request": "launch",
+         "type": "dart",
+         "flutterMode": "profile"
+      },
+      {
+         "name": "suraksha_sathi (release mode)",
+         "cwd": "suraksha_sathi",
+         "request": "launch",
+         "type": "dart",
+         "flutterMode": "release"
+      }
+   ]
+}
